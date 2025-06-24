@@ -73,4 +73,3 @@ Two model approaches were implemented:
 ---
 ```
 
-You can copy and paste this directly into a `README.md` file. Let me know if you'd like it in PDF or DOCX format too.
